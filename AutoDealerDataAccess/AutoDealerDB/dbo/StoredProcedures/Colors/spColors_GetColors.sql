@@ -1,0 +1,12 @@
+﻿CREATE PROCEDURE [dbo].[spColors_GetColors]
+AS
+	SET NOCOUNT ON;
+BEGIN TRY
+	SELECT [Id], [ColorName]
+	FROM [dbo].[Colors];
+	RETURN 0;
+END TRY
+BEGIN CATCH
+	RETURN ERROR_NUMBER();
+END CATCH
+GO

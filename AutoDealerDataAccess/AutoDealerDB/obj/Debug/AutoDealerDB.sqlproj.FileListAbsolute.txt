@@ -1,0 +1,16 @@
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\bin\Debug\AutoDealerDB.dacpac
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\AutoDealerDB.sqlprojAssemblyReference.cache
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\bin\Debug\AutoDealerDB.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\bin\Debug\AutoDealerDB.pdb
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\AutoDealerDB.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\AutoDealerDB.pdb
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\bin\Debug\AutoDealerDB.dacpac
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\bin\Debug\AutoDealerDB.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\bin\Debug\AutoDealerDB.pdb
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Debug\AutoDealerDB.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Debug\AutoDealerDB.pdb
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Debug\AutoDealerDB.sqlprojAssemblyReference.cache
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Debug\Model.xml
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Debug\refactor.xml
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Debug\postdeploy.sql
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Debug\predeploy.sql

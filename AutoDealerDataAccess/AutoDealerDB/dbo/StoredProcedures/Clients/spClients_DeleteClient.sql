@@ -1,0 +1,13 @@
+﻿CREATE PROCEDURE [dbo].[spClients_DeleteClient]
+	@Id INT
+AS
+	SET NOCOUNT ON;
+BEGIN TRY
+	DELETE FROM [dbo].[Clients]
+	WHERE [Id] = @Id;
+	RETURN 0;
+END TRY
+BEGIN CATCH
+	RETURN ERROR_NUMBER();
+END CATCH
+GO

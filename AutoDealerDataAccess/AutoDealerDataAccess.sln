@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AutoDealerDB", "AutoDealerDB\AutoDealerDB.sqlproj", "{51B61504-F049-4618-A160-FC38DE999747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDealerClassLibrary", "AutoDealerClassLibrary\AutoDealerClassLibrary.csproj", "{2E27548E-D49A-4B4D-8323-C8E9832482B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B61504-F049-4618-A160-FC38DE999747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B61504-F049-4618-A160-FC38DE999747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B61504-F049-4618-A160-FC38DE999747}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{51B61504-F049-4618-A160-FC38DE999747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B61504-F049-4618-A160-FC38DE999747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B61504-F049-4618-A160-FC38DE999747}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2E27548E-D49A-4B4D-8323-C8E9832482B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E27548E-D49A-4B4D-8323-C8E9832482B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E27548E-D49A-4B4D-8323-C8E9832482B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E27548E-D49A-4B4D-8323-C8E9832482B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E3C842-923C-4129-8716-218C3F8DA7A8}
+	EndGlobalSection
+EndGlobal

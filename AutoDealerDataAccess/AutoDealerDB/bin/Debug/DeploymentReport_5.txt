@@ -1,0 +1,39 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Ads] (Table)
+       [dbo].[Brands] (Table)
+       [dbo].[CarBodyTypes] (Table)
+       [dbo].[CarConditions] (Table)
+       [dbo].[Clients] (Table)
+       [dbo].[Colors] (Table)
+       [dbo].[Fuels] (Table)
+       [dbo].[ProductionYears] (Table)
+       [dbo].[spAds_CreateAd] (Procedure)
+       [dbo].[spAds_DeleteAd] (Procedure)
+       [dbo].[spAds_GetAdById] (Procedure)
+       [dbo].[spAds_GetAds] (Procedure)
+       [dbo].[spAds_UpdateAd] (Procedure)
+       [dbo].[spBrands_GetBrands] (Procedure)
+       [dbo].[spCarBodyTypes_GetBodyTypes] (Procedure)
+       [dbo].[spCarConditions_GetCarConditions] (Procedure)
+       [dbo].[spClients_CreateClient] (Procedure)
+       [dbo].[spClients_DeleteClient] (Procedure)
+       [dbo].[spClients_GetClientById] (Procedure)
+       [dbo].[spClients_GetClients] (Procedure)
+       [dbo].[spClients_UpdateClient] (Procedure)
+       [dbo].[spColors_GetColors] (Procedure)
+       [dbo].[spFuels_GetFuels] (Procedure)
+       [dbo].[spProductionYears_CreateYear] (Procedure)
+       [dbo].[spProductionYears_GetYears] (Procedure)
+
+** Supporting actions

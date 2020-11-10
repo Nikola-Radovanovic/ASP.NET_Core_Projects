@@ -1,0 +1,10 @@
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\bin\Debug\AutoDealerDataAccess.dacpac
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\bin\Debug\AutoDealerDataAccess.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\bin\Debug\AutoDealerDataAccess.pdb
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\AutoDealerDataAccess.sqlprojAssemblyReference.cache
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\Model.xml
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\refactor.xml
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\postdeploy.sql
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\predeploy.sql
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\AutoDealerDataAccess.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDataAccess\obj\Debug\AutoDealerDataAccess.pdb

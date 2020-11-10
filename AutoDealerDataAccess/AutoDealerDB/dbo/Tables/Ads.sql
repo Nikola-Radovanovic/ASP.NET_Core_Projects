@@ -1,0 +1,26 @@
+﻿CREATE TABLE [dbo].[Ads]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY,
+	[Title] NVARCHAR(50),
+	[DatePosted] DATETIME2 NOT NULL,
+	[Description] NVARCHAR(1000),
+	[Price] MONEY NOT NULL,
+	[ModelName] NVARCHAR(30) NOT NULL,
+	[Kilometers] NVARCHAR(7) NOT NULL,
+	[CubicCapacity] NVARCHAR(5) NOT NULL,
+	[HorsePower] NVARCHAR(5) NOT NULL,
+	[Kilowatts] NVARCHAR(5) NOT NULL,
+	[ClientName] NVARCHAR(50) NOT NULL,
+	[Address] NVARCHAR(100) NOT NULL,
+	[City] NVARCHAR(30) NOT NULL,
+	[ZIP] NVARCHAR(10) NOT NULL,
+	[Country] NVARCHAR(30) NOT NULL,
+	[Phone]	NVARCHAR(20) NOT NULL,
+	[ClientId] INT NOT NULL,
+	[BrandId] INT NOT NULL,
+	[CarBodyTypeId] INT NOT NULL,
+	[CarConditionId] INT NOT NULL,
+	[ColorId] INT NOT NULL,
+	[FuelId] INT NOT NULL,
+	[ProductionYearId] INT NOT NULL
+)

@@ -1,0 +1,12 @@
+﻿CREATE PROCEDURE [dbo].[spFuels_GetFuels]
+AS
+	SET NOCOUNT ON;
+BEGIN TRY
+	SELECT [Id], [FuelType]
+	FROM [dbo].[Fuels];
+	RETURN 0;
+END TRY
+BEGIN CATCH
+	RETURN ERROR_NUMBER();
+END CATCH
+GO

@@ -1,0 +1,9 @@
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\bin\Release\AutoDealerDB.dacpac
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\bin\Release\AutoDealerDB.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\bin\Release\AutoDealerDB.pdb
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Release\AutoDealerDB.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Release\AutoDealerDB.pdb
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Release\Model.xml
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Release\refactor.xml
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Release\postdeploy.sql
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerDB\obj\Release\predeploy.sql

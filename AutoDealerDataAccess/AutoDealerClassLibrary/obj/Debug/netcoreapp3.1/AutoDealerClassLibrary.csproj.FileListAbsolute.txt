@@ -1,0 +1,9 @@
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerClassLibrary\bin\Debug\netcoreapp3.1\AutoDealerClassLibrary.deps.json
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerClassLibrary\bin\Debug\netcoreapp3.1\AutoDealerClassLibrary.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerClassLibrary\bin\Debug\netcoreapp3.1\AutoDealerClassLibrary.pdb
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerClassLibrary\obj\Debug\netcoreapp3.1\AutoDealerClassLibrary.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerClassLibrary\obj\Debug\netcoreapp3.1\AutoDealerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerClassLibrary\obj\Debug\netcoreapp3.1\AutoDealerClassLibrary.AssemblyInfo.cs
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerClassLibrary\obj\Debug\netcoreapp3.1\AutoDealerClassLibrary.dll
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerClassLibrary\obj\Debug\netcoreapp3.1\AutoDealerClassLibrary.pdb
+C:\Users\Johny\Desktop\AutoDealer\AutoDealerDataAccess\AutoDealerClassLibrary\obj\Debug\netcoreapp3.1\AutoDealerClassLibrary.csproj.CoreCompileInputs.cache
